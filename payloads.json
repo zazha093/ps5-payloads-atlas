@@ -2,17 +2,6 @@
   "name": "lucaszhongsj/ps5-payloads-atlas",
   "payloads": [
     {
-      "name": "AnyPad PS5",
-      "filename": "AnyPad-PS5-0.8.1-beta.elf",
-      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5/releases/download/v0.8.1-beta/AnyPad-PS5-0.8.1-beta.elf",
-      "description": "A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak.",
-      "version": "v0.8.1-beta",
-      "category": "Kernel",
-      "checksum": "",
-      "last_update": "2026-10-10 05:59:55 UTC+8",
-      "source": "https://codeberg.org/elmonomalva0/any-pad-ps5"
-    },
-    {
       "name": "APR Emu Updater",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
@@ -531,13 +520,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-7.0.17.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.17/ps5upload-7.0.17.elf",
+      "filename": "ps5upload-7.0.22.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.22/ps5upload-7.0.22.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v7.0.17",
+      "version": "v7.0.22",
       "category": "Backup",
-      "checksum": "4f8fa51d144d63263b494967eedc86e1c7749c776ce62aa45e6a39e9f3209d8e",
-      "last_update": "2026-10-12 14:13:08 UTC+8",
+      "checksum": "e382353612fdf85b2fdbfea75f4f5ebad260c767faa51b0446118646a6db0267",
+      "last_update": "2026-10-12 17:47:07 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
@@ -608,6 +597,10 @@
     }
   ],
   "skipped": [
+    {
+      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
     {
       "url": "https://git.earthonion.com/soniciso/elf-arsenal",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
