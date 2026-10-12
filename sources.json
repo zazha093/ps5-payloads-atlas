@@ -323,8 +323,28 @@
         "display_name": "onionHEN",
         "exclude": false,
         "url": "https://github.com/aydencharles/onionhen"
-    },
-    {
+  },
+  {
+    "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro",
+    "display_name": "PS5 Cooling & System Center Pro",
+    "description": "Fan control, temperature monitoring and system center with a web UI.",
+    "asset_pattern": "PS5_Cooling_System_Center",
+    "exclude": false
+  },
+  {
+    "url": "https://github.com/TiagoVal97/cheatspecter",
+    "display_name": "CheatSpecter",
+    "description": "Browser-based cheat and memory tool. Start ps5debug-NG first.",
+    "exclude": false
+  },
+  {
+    "url": "https://github.com/gameboy829/PS5-LZ4-Game-Compressor",
+    "display_name": "LZ4 Game Compressor",
+    "description": "On-console game compression with a web UI. Needs ShadowMountPlus.",
+    "asset_pattern": "LZ4-Game-Compressor",
+    "exclude": false
+  },
+  {
         "asset_pattern": "apr-emu-updater",
         "description": "PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console.",
         "display_name": "APR Emu Updater",
