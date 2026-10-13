@@ -2,6 +2,17 @@
   "name": "lucaszhongsj/ps5-payloads-atlas",
   "payloads": [
     {
+      "name": "AnyPad PS5",
+      "filename": "AnyPad-PS5-0.9.1-beta.elf",
+      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5/releases/download/v0.9.1-beta/AnyPad-PS5-0.9.1-beta.elf",
+      "description": "A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak.",
+      "version": "v0.9.1-beta",
+      "category": "Kernel",
+      "checksum": "",
+      "last_update": "2026-10-12 16:42:39 UTC+8",
+      "source": "https://codeberg.org/elmonomalva0/any-pad-ps5"
+    },
+    {
       "name": "APR Emu Updater",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
@@ -66,17 +77,6 @@
       "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140",
       "last_update": "2026-10-11 02:01:49 UTC+8",
       "source": "https://github.com/notmaj0r/cheatrunner"
-    },
-    {
-      "name": "CheatSpecter",
-      "filename": "cheatspecter-v0.3.0.elf",
-      "url": "https://github.com/TiagoVal97/cheatspecter/releases/download/v0.3.0/cheatspecter-v0.3.0.elf",
-      "description": "Browser-based cheat and memory tool. Start ps5debug-NG first.",
-      "version": "v0.3.0",
-      "category": "Network",
-      "checksum": "6a60040c6db3c36be6a6de46630e50b9049d079c49625485cb9ff665a50df30d",
-      "last_update": "2026-10-11 03:15:01 UTC+8",
-      "source": "https://github.com/tiagoval97/cheatspecter"
     },
     {
       "name": "elfldr",
@@ -598,10 +598,6 @@
   ],
   "skipped": [
     {
-      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
       "url": "https://git.earthonion.com/soniciso/elf-arsenal",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
@@ -615,6 +611,10 @@
     },
     {
       "url": "https://github.com/StonedModder/Ghostpad",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
+      "url": "https://github.com/TiagoVal97/cheatspecter",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
