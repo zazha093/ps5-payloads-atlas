@@ -257,12 +257,12 @@
     {
       "name": "LZ4 Compression (theghostonline)",
       "filename": "lz4-compression.elf",
-      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/download/v1.4.3/lz4-compression.elf",
+      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/download/v1.5.0/lz4-compression.elf",
       "description": "Shrinks a game that is already on the PS5 by LZ4-packing its AMPR assets, entirely on the console: the game never leaves it. Works on folder games and on mounted .exfat/.ffpfs images, packs in place with rollback, verifies every file, and can undo. Needs ShadowMount+ for image sources. Open its page on port 5920 from the Connection screen's scene tools once it is running. ps5upload's Convert does the same packing on this computer when the game is here instead.",
-      "version": "v1.4.3",
+      "version": "v1.5.0",
       "category": "Installer",
-      "checksum": "8116fd6ee61e364ef602a73221006fcaebfdb59a9ed582aea512b55a192ff160",
-      "last_update": "2026-10-15 01:26:53 UTC+8",
+      "checksum": "edb4f2c5922bea293cc5c5354bd301fb0bde48856c0d2a8d115801d3c778b3f1",
+      "last_update": "2026-10-15 04:54:14 UTC+8",
       "source": "https://github.com/theghostonline/ps5-lz4-compression"
     },
     {
@@ -312,12 +312,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.0/orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
-      "version": "v1.3.0",
+      "version": "v1.3.5",
       "category": "Tools",
-      "checksum": "553b39e7503ec141f6a015b7939c83e93fe8f05dee176e42c7e3bc026b0ea519",
-      "last_update": "2026-10-14 04:46:16 UTC+8",
+      "checksum": "561a8e8015d9564d44e32b58a84e1294ea7043e96146110801a9f62ad99ac93b",
+      "last_update": "2026-10-15 05:17:34 UTC+8",
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.65.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.65.0/PS5_Cooling_System_Center_v1.65.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.67.0.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.67.0/PS5_Cooling_System_Center_v1.67.0.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.65.0",
+      "version": "v1.67.0",
       "category": "Tools",
-      "checksum": "767e02871c053f6ad193f8793121f394da3bbc2beb451803163a00c65c05270f",
-      "last_update": "2026-10-14 05:33:33 UTC+8",
+      "checksum": "75df7103983baf901178bdc6857acce8df0fe462c776ad05d334e560b3560c13",
+      "last_update": "2026-10-15 06:05:41 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "name": "ps5-payload-manager",
-      "filename": "pldmgr_v0.6.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.0/pldmgr_v0.6.0.elf",
+      "filename": "pldmgr_v0.6.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf",
       "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-      "version": "v0.6.0",
+      "version": "v0.6.1",
       "category": "Tools",
-      "checksum": "5b31079d81d6467f2754edd1d6dbe63b0306502e135c21a425ecb263e39e2059",
-      "last_update": "2026-10-14 07:38:40 UTC+8",
+      "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285",
+      "last_update": "2026-10-15 03:30:13 UTC+8",
       "source": "https://github.com/itsplk/ps5-payload-manager"
     },
     {
