@@ -255,6 +255,17 @@
       "source": "https://github.com/itsplk/ps5-lapy-jb-daemon"
     },
     {
+      "name": "LZ4 Compression (theghostonline)",
+      "filename": "lz4-compression.elf",
+      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.2/lz4-compression.elf",
+      "description": "Shrinks a game that is already on the PS5 by LZ4-packing its AMPR assets, entirely on the console: the game never leaves it. Works on folder games and on mounted .exfat/.ffpfs images, packs in place with rollback, verifies every file, and can undo. Needs ShadowMount+ for image sources. Open its page on port 5920 from the Connection screen's scene tools once it is running. ps5upload's Convert does the same packing on this computer when the game is here instead.",
+      "version": "v1.6.2",
+      "category": "Installer",
+      "checksum": "",
+      "last_update": "2026-10-19 10:08:51 UTC+8",
+      "source": "https://theghostonline.dev/theghostonline/ps5-lz4-compression"
+    },
+    {
       "name": "LZ4 Game Compressor",
       "filename": "LZ4-Game-Compressor.elf",
       "url": "https://github.com/gameboy829/PS5-LZ4-Game-Compressor/releases/download/beta.7/LZ4-Game-Compressor.elf",
@@ -634,10 +645,6 @@
     },
     {
       "url": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/theghostonline/PS5-LZ4-Compression",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     }
   ]
