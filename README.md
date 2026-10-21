@@ -77,7 +77,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 | **Orbit Store** | `v1.3.5` | Tools | A modern PS5 download manager with resumable downloads and phone controls | `2026-10-15 05:17:34 UTC+8` | [saawant12/orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5) |
 | **pegasus-dl** | `v1.11.0` | Installer | PS5 payload that serves a local web interface for downloading and installing game or application package data. | `2026-10-10 06:57:31 UTC+8` | [pegasus-ps5/pegasus-dl](https://github.com/pegasus-ps5/pegasus-dl) |
 | **PKG-Manager** | `v1.5.1` | Installer | Browse and install PKGs from USB, disc, or SMB shares directly on your PS5 | `2026-10-10 23:38:10 UTC+8` | [itsplk/ps5-pkg-manager](https://github.com/itsplk/ps5-pkg-manager) |
-| **PoorDS4** | `v0.1.0-rc51` | Tools | Use a wireless DualShock 4 in native PS5 games on jailbroken consoles. | `2026-09-30 09:01:16 UTC+8` | [itsblurf/poords4](https://github.com/itsblurf/poords4) |
+| **PoorDS4** | `v0.2.0` | Tools | Use a wireless DualShock 4 in native PS5 games on jailbroken consoles. | `2026-10-21 10:59:15 UTC+8` | [itsblurf/poords4](https://github.com/itsblurf/poords4) |
 | **ps-patch-system** | `38108724867` | Tools | App patching system | `2026-10-11 11:33:58 UTC+8` | [illusionyy/ps-patch-system](https://github.com/illusionyy/ps-patch-system) |
 | **PS5 aria2** | `v1.37.0-3` | Tools | aria2 for PS5 | `2026-10-05 22:00:24 UTC+8` | [owendswang/ps5-aria2](https://github.com/owendswang/ps5-aria2) |
 | **PS5 Console** | `6.5.1` | Files | Web-based PS5 control center combining game mounting, save management, USB controller support, FTP, fan control, and ELF management. | `2026-08-31 19:42:15 UTC+8` | [junleb/ps5console](https://github.com/junleb/ps5console) |
