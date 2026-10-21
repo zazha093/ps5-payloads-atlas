@@ -147,12 +147,12 @@
     {
       "name": "Garlic SaveMgr for PS5",
       "filename": "garlic-savemgr.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.14.0/garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.14/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-      "version": "v1.14.0",
+      "version": "v1.14",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-10-19 01:50:22 UTC+8",
+      "last_update": "2026-10-21 21:16:26 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.72.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.72.0/PS5_Cooling_System_Center_v1.72.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.73.1.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.73.1/PS5_Cooling_System_Center_v1.73.1.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.72.0",
+      "version": "v1.73.1",
       "category": "Tools",
-      "checksum": "3e6bb0675a17271b00fe583098872d1d404d7b8bec16b7fe60f9703ed0630559",
-      "last_update": "2026-10-21 07:16:23 UTC+8",
+      "checksum": "1378dd6a0622b9186e21214016dc70e5b349a3d44cfffe8f065d9e0c6b38c52f",
+      "last_update": "2026-10-21 23:36:25 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -542,14 +542,25 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-7.1.10.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
+      "filename": "ps5upload-7.1.11.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.11/ps5upload-7.1.11.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v7.1.10",
+      "version": "v7.1.11",
       "category": "Backup",
-      "checksum": "0025ee8d5ac9b660e8bc0ee98e42675ddd69b39c58ce71ff5ac0fb97de1a6040",
-      "last_update": "2026-10-21 03:49:29 UTC+8",
+      "checksum": "d82120553ab8826f64e1ce3fa3137a51dc28e8ee99711ebbe783d5b86bf7f814",
+      "last_update": "2026-10-21 12:39:43 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
+    },
+    {
+      "name": "ShadowMount+",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
+      "description": "Fully automated background 'Auto-Mounter' payload for jailbroken PS5. Watches scan folders for game folders and .ffpkg/.exfat/.ffpfs/.ffpfsc images, auto-mounts them, stages sce_sys + appmeta + trophy data, and registers them on the home screen.",
+      "version": "1.7beta7",
+      "category": "Installer",
+      "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee",
+      "last_update": "2026-10-21 19:56:24 UTC+8",
+      "source": "https://github.com/drakmor/shadowmountplus"
     },
     {
       "name": "shsrv",
@@ -630,10 +641,6 @@
     },
     {
       "url": "https://github.com/almhtar/ghostpad",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/drakmor/shadowmountplus",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
