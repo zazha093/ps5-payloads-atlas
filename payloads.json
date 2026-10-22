@@ -257,12 +257,12 @@
     {
       "name": "LZ4 Compression (theghostonline)",
       "filename": "lz4-compression.elf",
-      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.2/lz4-compression.elf",
+      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.3/lz4-compression.elf",
       "description": "Shrinks a game that is already on the PS5 by LZ4-packing its AMPR assets, entirely on the console: the game never leaves it. Works on folder games and on mounted .exfat/.ffpfs images, packs in place with rollback, verifies every file, and can undo. Needs ShadowMount+ for image sources. Open its page on port 5920 from the Connection screen's scene tools once it is running. ps5upload's Convert does the same packing on this computer when the game is here instead.",
-      "version": "v1.6.2",
+      "version": "v1.6.3",
       "category": "Installer",
       "checksum": "",
-      "last_update": "2026-10-19 10:08:51 UTC+8",
+      "last_update": "2026-10-22 04:53:50 UTC+8",
       "source": "https://theghostonline.dev/theghostonline/ps5-lz4-compression"
     },
     {
