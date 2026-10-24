@@ -321,17 +321,6 @@
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
-      "name": "pegasus-dl",
-      "filename": "pegasus_dl.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
-      "description": "PS5 payload that serves a local web interface for downloading and installing game or application package data.",
-      "version": "v1.11.0",
-      "category": "Installer",
-      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9",
-      "last_update": "2026-10-10 06:57:31 UTC+8",
-      "source": "https://github.com/pegasus-ps5/pegasus-dl"
-    },
-    {
       "name": "PKG-Manager",
       "filename": "pkg-manager_v1.5.1.elf",
       "url": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.5.1/pkg-manager_v1.5.1.elf",
@@ -542,13 +531,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-7.4.3.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.3/ps5upload-7.4.3.elf",
+      "filename": "ps5upload-7.5.1.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.1/ps5upload-7.5.1.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v7.4.3",
+      "version": "v7.5.1",
       "category": "Backup",
-      "checksum": "1a7dfaff37d131adac59a74a454dd0a756a503d1022bddda5b5b7e619299e667",
-      "last_update": "2026-10-25 02:08:20 UTC+8",
+      "checksum": "021c03c15d1b077558f8966ca46f38636f1934c084b930545098167e11abbc7b",
+      "last_update": "2026-10-25 05:40:06 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
@@ -641,6 +630,10 @@
     },
     {
       "url": "https://github.com/almhtar/ghostpad",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
+      "url": "https://github.com/pegasus-ps5/pegasus-dl",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
