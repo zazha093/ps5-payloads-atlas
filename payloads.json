@@ -255,14 +255,25 @@
       "source": "https://github.com/itsplk/ps5-lapy-jb-daemon"
     },
     {
+      "name": "LiveShell",
+      "filename": "liveshell.elf",
+      "url": "https://github.com/ZiZc3/LiveShell/releases/download/v1.5.2/liveshell.elf",
+      "description": "Animated backgrounds for PS5 home screen.",
+      "version": "v1.5.2",
+      "category": "Tools",
+      "checksum": "3c546a3cc85ded2435f822be12f925a284ac25a2aef757c777d6139dad36b624",
+      "last_update": "2026-10-24 13:52:32 UTC+8",
+      "source": "https://github.com/zizc3/liveshell"
+    },
+    {
       "name": "LZ4 Compression (theghostonline)",
       "filename": "lz4-compression.elf",
-      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.3/lz4-compression.elf",
+      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.4/lz4-compression.elf",
       "description": "Shrinks a game that is already on the PS5 by LZ4-packing its AMPR assets, entirely on the console: the game never leaves it. Works on folder games and on mounted .exfat/.ffpfs images, packs in place with rollback, verifies every file, and can undo. Needs ShadowMount+ for image sources. Open its page on port 5920 from the Connection screen's scene tools once it is running. ps5upload's Convert does the same packing on this computer when the game is here instead.",
-      "version": "v1.6.3",
+      "version": "v1.6.4",
       "category": "Installer",
       "checksum": "",
-      "last_update": "2026-10-22 04:53:50 UTC+8",
+      "last_update": "2026-10-26 10:34:12 UTC+8",
       "source": "https://theghostonline.dev/theghostonline/ps5-lz4-compression"
     },
     {
@@ -286,6 +297,17 @@
       "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5",
       "last_update": "2026-08-05 02:27:26 UTC+8",
       "source": "https://github.com/drakmor/nanodns"
+    },
+    {
+      "name": "NeoEnabler",
+      "filename": "neo-manager.elf",
+      "url": "https://github.com/gasb07/NeoEnabler/releases/download/v0.5.2/neo-manager.elf",
+      "description": "Allows PS4 games with no PS4 Support to receive patches via illusionyy's ps-patch-system that can unlock higher resolutions",
+      "version": "v0.5.2",
+      "category": "Tools",
+      "checksum": "ea9342b1349ea26b55af4643bdd34308d7880bb09309b632c1dc2c8c95f7be1b",
+      "last_update": "2026-10-25 06:18:34 UTC+8",
+      "source": "https://github.com/gasb07/neoenabler"
     },
     {
       "name": "NP Fake Signin",
@@ -352,6 +374,17 @@
       "checksum": "de316e305dc64d658817718912d3b9e35d922f2922a8ae1e10379711acbdea6a",
       "last_update": "2026-10-11 11:33:58 UTC+8",
       "source": "https://github.com/illusionyy/ps-patch-system"
+    },
+    {
+      "name": "ps4mount",
+      "filename": "ps4mount.elf",
+      "url": "https://github.com/gasb07/ps4mount/releases/download/v0.7.0/ps4mount.elf",
+      "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
+      "version": "v0.7.0",
+      "category": "Installer",
+      "checksum": "9a99fdeb2be8ebee823b14636e0aac5721386feabcfe97e27dc6d5b3e4158bb7",
+      "last_update": "2026-10-24 10:07:53 UTC+8",
+      "source": "https://github.com/gasb07/ps4mount"
     },
     {
       "name": "PS5 aria2",
@@ -464,6 +497,17 @@
       "source": "https://github.com/kerrdec97/ps5-date-time-sync"
     },
     {
+      "name": "ps5-dump-forge",
+      "filename": "ps5-dump-forge-0.4.1-ps5.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.4.1/ps5-dump-forge-0.4.1-ps5.elf",
+      "description": "A toolkit for working with PS5 game dumps",
+      "version": "v0.4.1",
+      "category": "Backup",
+      "checksum": "ea5c47d1500efc8573523d19cebaa8addac9ec51fc62a9c90048daca755f5c96",
+      "last_update": "2026-10-25 06:55:07 UTC+8",
+      "source": "https://github.com/quer3q/ps5-dump-forge"
+    },
+    {
       "name": "ps5-exporter",
       "filename": "ps5-exporter.elf",
       "url": "https://github.com/Marice/ps5-exporter/releases/download/v0.3.1/ps5-exporter.elf",
@@ -530,6 +574,17 @@
       "source": "https://github.com/pharaoh2k/ps5debug-ng"
     },
     {
+      "name": "PS5Save",
+      "filename": "backup.elf",
+      "url": "https://github.com/heni0xyz/PS5Save/releases/download/v2/backup.elf",
+      "description": "USB save backup utility for jailbroken PS5’s",
+      "version": "v2",
+      "category": "Backup",
+      "checksum": "91a7661e1f6708da77fe2bb5a5e4634ff1c531445df65bb1681ef2b21357af4c",
+      "last_update": "2026-10-22 00:59:04 UTC+8",
+      "source": "https://github.com/heni0xyz/ps5save"
+    },
+    {
       "name": "PS5upload",
       "filename": "ps5upload-7.5.3.elf",
       "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.3/ps5upload-7.5.3.elf",
@@ -594,6 +649,17 @@
       "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
       "last_update": "2026-08-03 03:51:42 UTC+8",
       "source": "https://github.com/ps5-payload-dev/websrv"
+    },
+    {
+      "name": "WelcomeHubActivator",
+      "filename": "WelcomeHubActivator-v1.2.0.elf",
+      "url": "https://github.com/ghost1372/WelcomeHubActivator/releases/download/v1.2.0/WelcomeHubActivator-v1.2.0.elf",
+      "description": "A PS5 ELF payload that enables the Welcome Hub.",
+      "version": "v1.2.0",
+      "category": "Tools",
+      "checksum": "f989cc412ef782a01f394fe80cf8fc237970884ba90ce4fe4baac165c0b5a2a6",
+      "last_update": "2026-10-24 04:08:05 UTC+8",
+      "source": "https://github.com/ghost1372/welcomehubactivator"
     },
     {
       "name": "zftpd",
