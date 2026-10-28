@@ -378,12 +378,12 @@
     {
       "name": "ps4mount",
       "filename": "ps4mount.elf",
-      "url": "https://github.com/gasb07/ps4mount/releases/download/v0.7.0/ps4mount.elf",
+      "url": "https://github.com/gasb07/ps4mount/releases/download/v0.7.1/ps4mount.elf",
       "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
-      "version": "v0.7.0",
+      "version": "v0.7.1",
       "category": "Installer",
-      "checksum": "9a99fdeb2be8ebee823b14636e0aac5721386feabcfe97e27dc6d5b3e4158bb7",
-      "last_update": "2026-10-24 10:07:53 UTC+8",
+      "checksum": "ea931ffc7b8da22b9ff36795388caaae28a926d9d44ecbb259e4c6e40aa72a27",
+      "last_update": "2026-10-29 02:25:55 UTC+8",
       "source": "https://github.com/gasb07/ps4mount"
     },
     {
