@@ -200,6 +200,17 @@
       "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
     },
     {
+      "name": "Hush",
+      "filename": "hush.elf",
+      "url": "https://github.com/disco-trooper/hush/releases/download/v1.0.0/hush.elf",
+      "description": "Stops the PS5 from continuously recording the last minutes of gameplay to its internal drive (several GB written per hour of play). The Create menu then answers \"Gameplay isn't being recorded\". Settings live in /data/hush/config.ini; enabled=0 restores recording within about 20 seconds. Remote Play uses the same video encoder, so while Hush is on a stream has no picture: Play can pause Hush for the stream and turn it back on afterwards. By disco-trooper.",
+      "version": "v1.0.0",
+      "category": "Tools",
+      "checksum": "5c98dd0881b64eb00e90d58d90056a66193ef8ee50e2d9906a1e298b5a34c352",
+      "last_update": "2026-10-25 19:18:40 UTC+8",
+      "source": "https://github.com/disco-trooper/hush"
+    },
+    {
       "name": "KeepAwake",
       "filename": "keepawake_ps5_v1.5.0.elf",
       "url": "https://github.com/mortyzip/KeepAwake/releases/download/v1.5.0/keepawake_ps5_v1.5.0.elf",
@@ -345,12 +356,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.1/orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
-      "version": "v1.8.1",
+      "version": "v1.8.2",
       "category": "Tools",
-      "checksum": "a9fe33c3b0338af074edb4f7c68bb3806a84efba718e3897f94eba9dc720f914",
-      "last_update": "2026-10-31 06:53:23 UTC+8",
+      "checksum": "134cedb380b39f5a010beb1a0834cebb2192ea0e5749c13675b3a64b6dfd3996",
+      "last_update": "2026-11-01 07:49:49 UTC+8",
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
@@ -421,13 +432,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.74.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.74.0/PS5_Cooling_System_Center_v1.74.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.75.0.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.75.0/PS5_Cooling_System_Center_v1.75.0.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.74.0",
+      "version": "v1.75.0",
       "category": "Tools",
-      "checksum": "deb088fa0c525a808744ee0db66a52e71faff23718750f59c5d8237ecc20ab8e",
-      "last_update": "2026-10-23 03:09:57 UTC+8",
+      "checksum": "7a19c450f221d9839c55d0efae40d03c02a9da208655b559f21deb72fa1c966c",
+      "last_update": "2026-11-01 07:53:46 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -597,13 +608,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-10.0.3.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.0.3/ps5upload-10.0.3.elf",
+      "filename": "ps5upload-10.2.0.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.2.0/ps5upload-10.2.0.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v10.0.3",
+      "version": "v10.2.0",
       "category": "Backup",
-      "checksum": "5dd0997ae31abe1e095a83ce0166eb92ccefa0ae13189aa29e51365498e872a2",
-      "last_update": "2026-10-31 22:14:44 UTC+8",
+      "checksum": "44c1f5315d0020d14311bdd6bdb079ff8dfb1311bee9972a0749648a23918804",
+      "last_update": "2026-11-01 08:01:59 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
