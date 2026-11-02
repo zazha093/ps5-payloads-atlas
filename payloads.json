@@ -608,14 +608,25 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-10.5.1.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.5.1/ps5upload-10.5.1.elf",
+      "filename": "ps5upload-10.7.0.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.0/ps5upload-10.7.0.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v10.5.1",
+      "version": "v10.7.0",
       "category": "Backup",
-      "checksum": "b95d33b5afb9c51f90c41477d436e57a1ce8cd3539419f71d8a8f8be4223ff13",
-      "last_update": "2026-11-02 02:54:03 UTC+8",
+      "checksum": "bdb3c4fc89d4ecb13c8472f31dbadc0ca9050d3fbcb0a359de4fb745fec49949",
+      "last_update": "2026-11-02 07:43:32 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
+    },
+    {
+      "name": "Remote Play Unlock",
+      "filename": "remoteplay_unlock_offsets.elf",
+      "url": "https://github.com/earthonion/remoteplay_unlock/releases/download/latest-testing/remoteplay_unlock_offsets.elf",
+      "description": "Patches the PS5's Remote Play service so games and apps that prohibit Remote Play (\"can't be streamed\", a prohibition notice during a stream, or a black picture) stream normally. Firmware 3.20, 10.01, 12.00, 12.70 and 13.60; it checks the console's code before changing it and refuses other firmware. One-shot: it applies the patch, shows a notification and exits. In memory: load it again after every reboot, or add it to your autoloader (Payload Manager: Load at boot). By earthonion.",
+      "version": "latest-testing",
+      "category": "Kernel",
+      "checksum": "007c5a67d23483477bdc4eaaae831155cb21a3c2928cada9a9d6980530399c6f",
+      "last_update": "2026-11-02 04:20:26 UTC+8",
+      "source": "https://github.com/earthonion/remoteplay_unlock"
     },
     {
       "name": "ShadowMount+",
