@@ -356,12 +356,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.4/orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.5/orbit_store.elf",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
-      "version": "v1.8.4",
+      "version": "v1.8.5",
       "category": "Tools",
-      "checksum": "a2ece507fdc835d72671820a6da30c3e2f92391a85da10e5f14130b5dbc2c596",
-      "last_update": "2026-11-03 01:22:04 UTC+8",
+      "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77",
+      "last_update": "2026-11-05 01:35:29 UTC+8",
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
@@ -432,13 +432,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.76.3.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.76.3/PS5_Cooling_System_Center_v1.76.3.elf",
+      "filename": "PS5_Cooling_System_Center_v1.76.7.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.76.7/PS5_Cooling_System_Center_v1.76.7.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.76.3",
+      "version": "v1.76.7",
       "category": "Tools",
-      "checksum": "67d2548a0db03f5c8f45aa552f0c14be7e96f389734323b395b6efd1b7c2d46d",
-      "last_update": "2026-11-04 20:43:30 UTC+8",
+      "checksum": "6a669399dfca68a179b49c34a693daf47c5cef78b7871586ef8f69ced2ae2a05",
+      "last_update": "2026-11-05 02:16:19 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -465,13 +465,13 @@
     },
     {
       "name": "PS5 Tailscale",
-      "filename": "tailscale-0.7.2.elf",
-      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.2/tailscale-0.7.2.elf",
+      "filename": "tailscale-0.7.3.elf",
+      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.3/tailscale-0.7.3.elf",
       "description": "Tailscale for jailbroken PS5: reach the console over your tailnet and stream to it with Moonlight/Sunshine (unofficial)",
-      "version": "v0.7.2",
+      "version": "v0.7.3",
       "category": "Tools",
-      "checksum": "47294aa593644d1e86f07d7faac71e40ae737b536c1b56261b2b7287238f37c8",
-      "last_update": "2026-11-02 01:47:09 UTC+8",
+      "checksum": "899c9f76994317171ab62a331a229b260e7c93aab68963502d79c861392e5801",
+      "last_update": "2026-11-05 00:05:32 UTC+8",
       "source": "https://github.com/holdmysocks/ps5-tailscale"
     },
     {
