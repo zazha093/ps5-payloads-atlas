@@ -432,13 +432,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.75.7.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.75.7/PS5_Cooling_System_Center_v1.75.7.elf",
+      "filename": "PS5_Cooling_System_Center_v1.76.3.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.76.3/PS5_Cooling_System_Center_v1.76.3.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.75.7",
+      "version": "v1.76.3",
       "category": "Tools",
-      "checksum": "3d7c6a967359cab3dd841a6c5b8c14f1582b9c6dfee326a28e05925aa37f53bf",
-      "last_update": "2026-11-04 05:11:59 UTC+8",
+      "checksum": "67d2548a0db03f5c8f45aa552f0c14be7e96f389734323b395b6efd1b7c2d46d",
+      "last_update": "2026-11-04 20:43:30 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -608,13 +608,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-11.0.5.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.0.5/ps5upload-11.0.5.elf",
+      "filename": "ps5upload-11.0.8.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.0.8/ps5upload-11.0.8.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v11.0.5",
+      "version": "v11.0.8",
       "category": "Backup",
-      "checksum": "7c0b8a6b1243e01892bcc0abde51afb32d621f4a633f1938123e2f7fbc0b7373",
-      "last_update": "2026-11-04 13:59:23 UTC+8",
+      "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e",
+      "last_update": "2026-11-04 16:30:48 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
