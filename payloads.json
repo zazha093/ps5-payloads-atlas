@@ -57,17 +57,6 @@
       "source": "https://github.com/itsblurf/bfplayer"
     },
     {
-      "name": "Browser payload menu (WebKit Autoloader installer)",
-      "filename": "webkit-autoloader-installer_v0.6.2.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.2/webkit-autoloader-installer_v0.6.2.elf",
-      "description": "Installs a payload menu in the PS5's own web browser, so payloads can be launched from the console without sending them from a PC every time. One-shot installer ELF: send it, it installs, it exits. Run it after your kernel exploit, like any other payload.",
-      "version": "v0.6.2",
-      "category": "Kernel",
-      "checksum": "27fd335764270716972faea399a5cc7810b9e49a21abf4966d9759580756cb19",
-      "last_update": "2026-10-28 08:07:18 UTC+8",
-      "source": "https://github.com/itsplk/ps5-webkit-autoloader"
-    },
-    {
       "name": "CheatRunner",
       "filename": "CheatRunner.elf",
       "url": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.18.1/CheatRunner.elf",
@@ -158,23 +147,23 @@
     {
       "name": "Garlic SaveMgr for PS5",
       "filename": "garlic-savemgr.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.14/garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta4/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-      "version": "v1.14",
+      "version": "v1.15-beta4",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-10-21 21:16:26 UTC+8",
+      "last_update": "2026-11-05 11:44:26 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
       "name": "Garlic Worker",
       "filename": "garlic-worker-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.1.8/garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.2.2/garlic-worker-ps5.elf",
       "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
-      "version": "v1.1.8",
+      "version": "v1.2.2",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-04 13:21:03 UTC+8",
+      "last_update": "2026-11-05 12:05:07 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-worker"
     },
     {
@@ -200,17 +189,6 @@
       "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
     },
     {
-      "name": "Hush",
-      "filename": "hush.elf",
-      "url": "https://github.com/disco-trooper/hush/releases/download/v1.1.1/hush.elf",
-      "description": "Stops the PS5 from continuously recording the last minutes of gameplay to its internal drive (several GB written per hour of play). The Create menu then answers \"Gameplay isn't being recorded\". Settings live in /data/hush/config.ini; enabled=0 restores recording within about 20 seconds. Remote Play uses the same video encoder, so while Hush is on a stream has no picture: Play can pause Hush for the stream and turn it back on afterwards. By disco-trooper.",
-      "version": "v1.1.1",
-      "category": "Tools",
-      "checksum": "e58045cc39bb2301a4966e3c043eb75cabc45a0e5e39bb09b0b4151f57767f78",
-      "last_update": "2026-11-04 00:28:41 UTC+8",
-      "source": "https://github.com/disco-trooper/hush"
-    },
-    {
       "name": "KeepAwake",
       "filename": "keepawake_ps5_v1.5.0.elf",
       "url": "https://github.com/mortyzip/KeepAwake/releases/download/v1.5.0/keepawake_ps5_v1.5.0.elf",
@@ -231,17 +209,6 @@
       "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb",
       "last_update": "2026-08-03 00:37:37 UTC+8",
       "source": "https://github.com/ps5-payload-dev/klogsrv"
-    },
-    {
-      "name": "kstuff-lite (drakmor — fpkg-optimized)",
-      "filename": "kstuff.elf",
-      "url": "https://github.com/drakmor/kstuff-lite/releases/download/1.2-dr-test1/kstuff.elf",
-      "description": "Fork of EchoStretch/kstuff-lite with a hot path for .ffpkg (UFS) + PFS mounts and lower overhead in repeated mount/unmount cycles. Recent builds extended firmware coverage through FW 12.xx (the '12.xx Support' update) on top of the original 3.00→10.01 range — check the release notes for your exact firmware. Adds an option to disable automatic mounting (noautomount) for a controlled startup. Recommended when your primary workflow is ShadowMount+ with .ffpkg/.exfat/PFS images. Same load-first ordering as any other kstuff: must boot before ShadowMount+ or ps5upload.",
-      "version": "1.2-dr-test1",
-      "category": "Kernel",
-      "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9",
-      "last_update": "2026-05-31 21:18:16 UTC+8",
-      "source": "https://github.com/drakmor/kstuff-lite"
     },
     {
       "name": "kstuff-lite (EchoStretch)",
@@ -286,17 +253,6 @@
       "checksum": "99335e75312d6ffcce91f6a5b659f0191ec057c744b2b3d5b899db5a88b80ac3",
       "last_update": "2026-10-27 06:33:48 UTC+8",
       "source": "https://github.com/zizc3/liveshell"
-    },
-    {
-      "name": "LZ4 Compression (theghostonline)",
-      "filename": "lz4-compression.elf",
-      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.4/lz4-compression.elf",
-      "description": "Shrinks a game that is already on the PS5 by LZ4-packing its AMPR assets, entirely on the console: the game never leaves it. Works on folder games and on mounted .exfat/.ffpfs images, packs in place with rollback, verifies every file, and can undo. Needs ShadowMount+ for image sources. Open its page on port 5920 from the Connection screen's scene tools once it is running. ps5upload's Convert does the same packing on this computer when the game is here instead.",
-      "version": "v1.6.4",
-      "category": "Installer",
-      "checksum": "",
-      "last_update": "2026-10-26 10:34:12 UTC+8",
-      "source": "https://theghostonline.dev/theghostonline/ps5-lz4-compression"
     },
     {
       "name": "LZ4 Game Compressor",
@@ -608,25 +564,14 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-11.0.8.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.0.8/ps5upload-11.0.8.elf",
+      "filename": "ps5upload-11.1.0.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.1.0/ps5upload-11.1.0.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v11.0.8",
+      "version": "v11.1.0",
       "category": "Backup",
-      "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e",
-      "last_update": "2026-11-04 16:30:48 UTC+8",
+      "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b",
+      "last_update": "2026-11-05 10:55:38 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
-    },
-    {
-      "name": "Remote Play Unlock",
-      "filename": "remoteplay_unlock_offsets.elf",
-      "url": "https://github.com/earthonion/remoteplay_unlock/releases/download/latest-testing/remoteplay_unlock_offsets.elf",
-      "description": "Patches the PS5's Remote Play service so games and apps that prohibit Remote Play (\"can't be streamed\", a prohibition notice during a stream, or a black picture) stream normally. Firmware 3.20, 10.01, 12.00, 12.70 and 13.60; it checks the console's code before changing it and refuses other firmware. One-shot: it applies the patch, shows a notification and exits. In memory: load it again after every reboot, or add it to your autoloader (Payload Manager: Load at boot). By earthonion.",
-      "version": "latest-testing",
-      "category": "Kernel",
-      "checksum": "007c5a67d23483477bdc4eaaae831155cb21a3c2928cada9a9d6980530399c6f",
-      "last_update": "2026-11-02 04:20:26 UTC+8",
-      "source": "https://github.com/earthonion/remoteplay_unlock"
     },
     {
       "name": "ShadowMount+",
@@ -673,6 +618,17 @@
       "source": "https://github.com/bizkut/unrar-ps5"
     },
     {
+      "name": "WebKit-Autoloader-Installer",
+      "filename": "webkit-autoloader-installer_v0.6.2.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.2/webkit-autoloader-installer_v0.6.2.elf",
+      "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
+      "version": "v0.6.2",
+      "category": "Kernel",
+      "checksum": "27fd335764270716972faea399a5cc7810b9e49a21abf4966d9759580756cb19",
+      "last_update": "2026-10-28 08:07:18 UTC+8",
+      "source": "https://github.com/itsplk/ps5-webkit-autoloader"
+    },
+    {
       "name": "websrv",
       "filename": "websrv-ps5.elf",
       "url": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.34/websrv-ps5.elf",
@@ -713,14 +669,6 @@
     },
     {
       "url": "https://git.earthonion.com/soniciso/sonicloader",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/LightningMods/Itemzflow",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/StonedModder/Ghostpad",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
