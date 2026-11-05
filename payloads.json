@@ -158,12 +158,12 @@
     {
       "name": "Garlic Worker",
       "filename": "garlic-worker-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.2.2/garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.2.3/garlic-worker-ps5.elf",
       "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
-      "version": "v1.2.2",
+      "version": "v1.2.3",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-05 12:05:07 UTC+8",
+      "last_update": "2026-11-05 22:57:53 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-worker"
     },
     {
@@ -176,6 +176,17 @@
       "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
       "last_update": "2026-08-03 00:50:41 UTC+8",
       "source": "https://github.com/ps5-payload-dev/gdbsrv"
+    },
+    {
+      "name": "Ghostcontrol",
+      "filename": "Ghostcontrol.elf",
+      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.5/Ghostcontrol.elf",
+      "description": "USB HID controller patcher that injects third-party controller input into a virtual DualSense device.",
+      "version": "1.0.5",
+      "category": "Tools",
+      "checksum": "69271d91f27397c9ad42150129639ce452ecb405021108f42c6c87926123a6f1",
+      "last_update": "2026-07-06 10:19:27 UTC+8",
+      "source": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher"
     },
     {
       "name": "HearBridge PS5",
@@ -356,12 +367,12 @@
     {
       "name": "ps4mount",
       "filename": "ps4mount.elf",
-      "url": "https://github.com/gasb07/ps4mount/releases/download/v0.7.2/ps4mount.elf",
+      "url": "https://github.com/gasb07/ps4mount/releases/download/v0.7.3/ps4mount.elf",
       "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
-      "version": "v0.7.2",
+      "version": "v0.7.3",
       "category": "Installer",
-      "checksum": "30627513e950f6b7b6b0e5ca43c30e954cdd873a646b8beefe0a4a925ac28479",
-      "last_update": "2026-10-30 00:15:47 UTC+8",
+      "checksum": "f107a443aa83196744deeefe748a7f09d8b8b340a30df1b232535b6ee0f15127",
+      "last_update": "2026-11-06 01:13:28 UTC+8",
       "source": "https://github.com/gasb07/ps4mount"
     },
     {
@@ -388,13 +399,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.76.7.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.76.7/PS5_Cooling_System_Center_v1.76.7.elf",
+      "filename": "PS5_Cooling_System_Center_v1.76.9.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.76.9/PS5_Cooling_System_Center_v1.76.9.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.76.7",
+      "version": "v1.76.9",
       "category": "Tools",
-      "checksum": "6a669399dfca68a179b49c34a693daf47c5cef78b7871586ef8f69ced2ae2a05",
-      "last_update": "2026-11-05 02:16:19 UTC+8",
+      "checksum": "aa24b1e997503001e0b312bc53ca30bbdafdc6c2471b2dcf863c544e09d13548",
+      "last_update": "2026-11-05 19:01:41 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -476,13 +487,13 @@
     },
     {
       "name": "ps5-dump-forge",
-      "filename": "ps5-dump-forge-0.5.2-ps5.elf",
-      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.2/ps5-dump-forge-0.5.2-ps5.elf",
+      "filename": "ps5-dump-forge-0.5.3-ps5.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.3/ps5-dump-forge-0.5.3-ps5.elf",
       "description": "A toolkit for working with PS5 game dumps",
-      "version": "v0.5.2",
+      "version": "v0.5.3",
       "category": "Backup",
-      "checksum": "140b4a8625b42af25acf8ff2c454c06c1182866960f18a0f4b04d57a380a5589",
-      "last_update": "2026-11-03 22:08:52 UTC+8",
+      "checksum": "3dd9976dda293ed8d2f718bf93b4b214bce881d8f75d7168b9477a490170466a",
+      "last_update": "2026-11-05 16:40:19 UTC+8",
       "source": "https://github.com/quer3q/ps5-dump-forge"
     },
     {
@@ -564,13 +575,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-11.1.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.1.0/ps5upload-11.1.0.elf",
+      "filename": "ps5upload-11.2.3.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.3/ps5upload-11.2.3.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v11.1.0",
+      "version": "v11.2.3",
       "category": "Backup",
-      "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b",
-      "last_update": "2026-11-05 10:55:38 UTC+8",
+      "checksum": "0a0fd1cd7946e5bd364dfaaadc0e7b01c35c33fd48302385378ff743646b129a",
+      "last_update": "2026-11-06 00:17:04 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
@@ -677,10 +688,6 @@
     },
     {
       "url": "https://github.com/pegasus-ps5/pegasus-dl",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     }
   ]
