@@ -147,12 +147,12 @@
     {
       "name": "Garlic SaveMgr for PS5",
       "filename": "garlic-savemgr.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta4/garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta9/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-      "version": "v1.15-beta4",
+      "version": "v1.15-beta9",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-05 11:44:26 UTC+8",
+      "last_update": "2026-11-06 07:00:35 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
@@ -176,28 +176,6 @@
       "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
       "last_update": "2026-08-03 00:50:41 UTC+8",
       "source": "https://github.com/ps5-payload-dev/gdbsrv"
-    },
-    {
-      "name": "Ghostcontrol",
-      "filename": "Ghostcontrol.elf",
-      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.5/Ghostcontrol.elf",
-      "description": "USB HID controller patcher that injects third-party controller input into a virtual DualSense device.",
-      "version": "1.0.5",
-      "category": "Tools",
-      "checksum": "69271d91f27397c9ad42150129639ce452ecb405021108f42c6c87926123a6f1",
-      "last_update": "2026-07-06 10:19:27 UTC+8",
-      "source": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher"
-    },
-    {
-      "name": "HearBridge PS5",
-      "filename": "HearBridge-1.4.0.elf",
-      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.0/HearBridge-1.4.0.elf",
-      "description": "Bluetooth A2DP audio bridge for PS5 homebrew",
-      "version": "v1.4.0",
-      "category": "Tools",
-      "checksum": "0c78332ac317541da12cb5998d1cab7f5b1b2778b3e835c4213b62278515d186",
-      "last_update": "2026-10-30 22:33:31 UTC+8",
-      "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
     },
     {
       "name": "KeepAwake",
@@ -683,11 +661,19 @@
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
+      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
       "url": "https://github.com/almhtar/ghostpad",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
       "url": "https://github.com/pegasus-ps5/pegasus-dl",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
+      "url": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     }
   ]
