@@ -147,23 +147,23 @@
     {
       "name": "Garlic SaveMgr for PS5",
       "filename": "garlic-savemgr.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta9/garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta11/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-      "version": "v1.15-beta9",
+      "version": "v1.15-beta11",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-06 07:00:35 UTC+8",
+      "last_update": "2026-11-06 13:54:32 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
       "name": "Garlic Worker",
       "filename": "garlic-worker-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.2.3/garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.3.0/garlic-worker-ps5.elf",
       "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
-      "version": "v1.2.3",
+      "version": "v1.3.0",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-05 22:57:53 UTC+8",
+      "last_update": "2026-11-06 14:25:12 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-worker"
     },
     {
@@ -553,13 +553,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-11.2.3.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.3/ps5upload-11.2.3.elf",
+      "filename": "ps5upload-11.2.4.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.2.4/ps5upload-11.2.4.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v11.2.3",
+      "version": "v11.2.4",
       "category": "Backup",
-      "checksum": "0a0fd1cd7946e5bd364dfaaadc0e7b01c35c33fd48302385378ff743646b129a",
-      "last_update": "2026-11-06 00:17:04 UTC+8",
+      "checksum": "06fb08963fb31c59ab277d5e1b109481c546fc1128a664b06ca70a9c2078e374",
+      "last_update": "2026-11-06 10:19:39 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
