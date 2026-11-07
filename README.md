@@ -46,7 +46,6 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 <!-- PAYLOADS_START -->
 | Name | Version | Category | Description | Last Updated | Source |
 | --- | --- | --- | --- | --- | --- |
-| **AnyPad PS5** | `v0.9.5-beta` | Kernel | A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak. | `2026-10-15 03:05:40 UTC+8` | [elmonomalva0/any-pad-ps5](https://codeberg.org/elmonomalva0/any-pad-ps5) |
 | **APR Emu Updater** | `v2.0.6` | Installer | PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console. | `2026-08-29 17:54:19 UTC+8` | [tsuramatsu1/apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater) |
 | **BackPork** | `0.1` | Installer | Lets you sideload system libraries into PS5 games. | `2026-05-01 00:34:19 UTC+8` | [bestpig/backpork](https://github.com/bestpig/backpork) |
 | **BFpilot** | `v0.4.4` | Files | Web-based PS5 file manager serving a browser interface on port 5905 for browsing and managing console files. | `2026-08-12 02:08:09 UTC+8` | [itsblurf/bfpilot](https://github.com/itsblurf/bfpilot) |
