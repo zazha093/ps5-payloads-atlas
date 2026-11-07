@@ -2,6 +2,17 @@
   "name": "lucaszhongsj/ps5-payloads-atlas",
   "payloads": [
     {
+      "name": "AnyPad PS5",
+      "filename": "AnyPad-PS5-0.9.5-beta.elf",
+      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5/releases/download/v0.9.5-beta/AnyPad-PS5-0.9.5-beta.elf",
+      "description": "A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak.",
+      "version": "v0.9.5-beta",
+      "category": "Kernel",
+      "checksum": "",
+      "last_update": "2026-10-15 03:05:40 UTC+8",
+      "source": "https://codeberg.org/elmonomalva0/any-pad-ps5"
+    },
+    {
       "name": "APR Emu Updater",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
@@ -147,12 +158,12 @@
     {
       "name": "Garlic Worker",
       "filename": "garlic-worker-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.3.6/garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.3.9/garlic-worker-ps5.elf",
       "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
-      "version": "v1.3.6",
+      "version": "v1.3.9",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-07 00:18:08 UTC+8",
+      "last_update": "2026-11-08 00:05:11 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-worker"
     },
     {
@@ -165,6 +176,17 @@
       "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
       "last_update": "2026-08-03 00:50:41 UTC+8",
       "source": "https://github.com/ps5-payload-dev/gdbsrv"
+    },
+    {
+      "name": "Ghostcontrol",
+      "filename": "GhosttoothAPI.elf",
+      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/v2.2.5-beta/GhosttoothAPI.elf",
+      "description": "USB HID controller patcher that injects third-party controller input into a virtual DualSense device.",
+      "version": "v2.2.5-beta",
+      "category": "Tools",
+      "checksum": "9252b95bdf019f83628e454d03c15709fd2a59abf1f218e3d02f141eae1e9a19",
+      "last_update": "2026-11-06 06:22:39 UTC+8",
+      "source": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher"
     },
     {
       "name": "KeepAwake",
@@ -366,13 +388,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.77.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.77.0/PS5_Cooling_System_Center_v1.77.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.77.1.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.77.1/PS5_Cooling_System_Center_v1.77.1.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.77.0",
+      "version": "v1.77.1",
       "category": "Tools",
-      "checksum": "5e6b8600a50c615539563b97f5825c9b567a155aad6eb3bdd0d946e6a51d725e",
-      "last_update": "2026-11-06 22:13:25 UTC+8",
+      "checksum": "0d5b9bb32c27b0f6207d354a6b9a8dc7305eb38d8b5f290326ab9637ac3e6658",
+      "last_update": "2026-11-07 20:57:33 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -542,13 +564,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-11.3.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.3.0/ps5upload-11.3.0.elf",
+      "filename": "ps5upload-11.5.0.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.5.0/ps5upload-11.5.0.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v11.3.0",
+      "version": "v11.5.0",
       "category": "Backup",
-      "checksum": "db1d0e2be1d14fea08b42a9289e20ebe8609011f288b29b7dd73c957b2616ffd",
-      "last_update": "2026-11-07 11:21:47 UTC+8",
+      "checksum": "92e47765d122cb0adc262c06318b3647faf08a8910ebfb74f47c62738188c845",
+      "last_update": "2026-11-08 01:23:14 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
@@ -642,10 +664,6 @@
   ],
   "skipped": [
     {
-      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
       "url": "https://git.earthonion.com/soniciso/elf-arsenal",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
@@ -663,10 +681,6 @@
     },
     {
       "url": "https://github.com/pegasus-ps5/pegasus-dl",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     }
   ]
