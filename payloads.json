@@ -388,13 +388,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.78.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.78.0/PS5_Cooling_System_Center_v1.78.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.79.0.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.79.0/PS5_Cooling_System_Center_v1.79.0.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.78.0",
+      "version": "v1.79.0",
       "category": "Tools",
-      "checksum": "7a4b2bec36918b92ffac55dd934b4cdf56cf8dffd2d86ec9bd4f71e322936699",
-      "last_update": "2026-11-08 14:24:25 UTC+8",
+      "checksum": "9ce01f4c93b0934fe0612163d07f15477e6a5d8edc35be24e7c5e46d51027afc",
+      "last_update": "2026-11-10 07:49:02 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -476,13 +476,13 @@
     },
     {
       "name": "ps5-dump-forge",
-      "filename": "ps5-dump-forge-0.5.4-ps5.elf",
-      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.4/ps5-dump-forge-0.5.4-ps5.elf",
+      "filename": "ps5-dump-forge-0.5.5-ps5.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.5/ps5-dump-forge-0.5.5-ps5.elf",
       "description": "A toolkit for working with PS5 game dumps",
-      "version": "v0.5.4",
+      "version": "v0.5.5",
       "category": "Backup",
-      "checksum": "ad8c36040c39f538376fbbc6434bdbe7f3d001e4f84cbb9afaa16a6d29617fc9",
-      "last_update": "2026-11-06 20:51:45 UTC+8",
+      "checksum": "858b8ae2954341a3389e4a9f998c6a57d01bc4e4fb8f01a71c41719001c30be7",
+      "last_update": "2026-11-10 04:19:00 UTC+8",
       "source": "https://github.com/quer3q/ps5-dump-forge"
     },
     {
@@ -564,13 +564,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-12.3.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.3.0/ps5upload-12.3.0.elf",
+      "filename": "ps5upload-12.4.2.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.2/ps5upload-12.4.2.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v12.3.0",
+      "version": "v12.4.2",
       "category": "Backup",
-      "checksum": "68f6baf099d68062632220c64a048fae59d54a5babed14a73c55c993ac283d33",
-      "last_update": "2026-11-09 17:11:14 UTC+8",
+      "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef",
+      "last_update": "2026-11-10 07:48:53 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
