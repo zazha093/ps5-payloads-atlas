@@ -189,6 +189,17 @@
       "source": "https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher"
     },
     {
+      "name": "HearBridge PS5",
+      "filename": "HearBridge-1.4.0.elf",
+      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.0/HearBridge-1.4.0.elf",
+      "description": "Bluetooth A2DP audio bridge for PS5 homebrew",
+      "version": "v1.4.0",
+      "category": "Tools",
+      "checksum": "0c78332ac317541da12cb5998d1cab7f5b1b2778b3e835c4213b62278515d186",
+      "last_update": "2026-10-30 22:33:31 UTC+8",
+      "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
+    },
+    {
       "name": "KeepAwake",
       "filename": "keepawake_ps5_v1.5.0.elf",
       "url": "https://github.com/mortyzip/KeepAwake/releases/download/v1.5.0/keepawake_ps5_v1.5.0.elf",
@@ -669,10 +680,6 @@
     },
     {
       "url": "https://git.earthonion.com/soniciso/sonicloader",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
