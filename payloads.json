@@ -323,12 +323,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.0/orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.1/orbit_store.elf",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
-      "version": "v1.9.0",
+      "version": "v1.9.1",
       "category": "Tools",
-      "checksum": "4d2b78ad4c0de1211b93664d5401beb1e19e54452fccc74886d4cb63b659439a",
-      "last_update": "2026-11-14 06:10:49 UTC+8",
+      "checksum": "88caf08827cd8141fc18e1d293480633343e0f6f92aa9a43e07de8ee5a497738",
+      "last_update": "2026-11-15 09:21:38 UTC+8",
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
@@ -565,12 +565,12 @@
     {
       "name": "PS5Save",
       "filename": "backup.elf",
-      "url": "https://github.com/heni0xyz/PS5Save/releases/download/v2/backup.elf",
+      "url": "https://github.com/heni0xyz/PS5Save/releases/download/v3/backup.elf",
       "description": "USB save backup utility for jailbroken PS5’s",
-      "version": "v2",
+      "version": "v3",
       "category": "Backup",
-      "checksum": "91a7661e1f6708da77fe2bb5a5e4634ff1c531445df65bb1681ef2b21357af4c",
-      "last_update": "2026-10-22 00:59:04 UTC+8",
+      "checksum": "06897d7fb166c37329e6ac6c8904225abba03e847a5f705bf2c93963b1402794",
+      "last_update": "2026-11-15 08:18:47 UTC+8",
       "source": "https://github.com/heni0xyz/ps5save"
     },
     {
