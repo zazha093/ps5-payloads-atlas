@@ -190,13 +190,13 @@
     },
     {
       "name": "HearBridge PS5",
-      "filename": "HearBridge-1.4.1.elf",
-      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.1/HearBridge-1.4.1.elf",
+      "filename": "HearBridge-1.4.2.elf",
+      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.2/HearBridge-1.4.2.elf",
       "description": "Bluetooth A2DP audio bridge for PS5 homebrew",
-      "version": "v1.4.1",
+      "version": "v1.4.2",
       "category": "Tools",
-      "checksum": "3996f6b10fd4c3fec02802e26ae6c68368f1719c50eddd0205453f232f666053",
-      "last_update": "2026-11-15 23:29:02 UTC+8",
+      "checksum": "565bb15656efad8d5561c2e397eac89002f12955fb2c6b65dc3475017613e434",
+      "last_update": "2026-11-16 01:45:40 UTC+8",
       "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.84.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.84.0/PS5_Cooling_System_Center_v1.84.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.86.2.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.86.2/PS5_Cooling_System_Center_v1.86.2.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.84.0",
+      "version": "v1.86.2",
       "category": "Tools",
-      "checksum": "06a853d7016439d198cc17d2fdeb328bee2617735a1b79dc6832eb10463aee9e",
-      "last_update": "2026-11-14 08:52:10 UTC+8",
+      "checksum": "0ab9d379debfe79fb96f747a8b89ffa670468beec17f4514de01b197a4e198a5",
+      "last_update": "2026-11-16 04:07:48 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-12.4.22.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.22/ps5upload-12.4.22.elf",
+      "filename": "ps5upload-12.4.23.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.23/ps5upload-12.4.23.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v12.4.22",
+      "version": "v12.4.23",
       "category": "Backup",
-      "checksum": "b60d65a9f753233cd1a25f46eb3c3e7de595f251a1b87d8a9deefaf4c2b8cf06",
-      "last_update": "2026-11-15 18:21:02 UTC+8",
+      "checksum": "ef1a7e246158ce9dbbeb99bf0057f044c45a6a07b713a12a7575d4345147bba3",
+      "last_update": "2026-11-16 03:09:50 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
