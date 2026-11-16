@@ -399,13 +399,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.86.2.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.86.2/PS5_Cooling_System_Center_v1.86.2.elf",
+      "filename": "PS5_Cooling_System_Center_v1.86.4.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.86.4/PS5_Cooling_System_Center_v1.86.4.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.86.2",
+      "version": "v1.86.4",
       "category": "Tools",
-      "checksum": "0ab9d379debfe79fb96f747a8b89ffa670468beec17f4514de01b197a4e198a5",
-      "last_update": "2026-11-16 04:07:48 UTC+8",
+      "checksum": "d6b0b86dd46ac3e7fa10346acc1642ce0603d57ab0f24d09b6061490f03d6f58",
+      "last_update": "2026-11-16 08:24:44 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -587,12 +587,12 @@
     {
       "name": "ShadowMount+",
       "filename": "shadowmountplus.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/shadowmountplus.elf",
       "description": "Fully automated background 'Auto-Mounter' payload for jailbroken PS5. Watches scan folders for game folders and .ffpkg/.exfat/.ffpfs/.ffpfsc images, auto-mounts them, stages sce_sys + appmeta + trophy data, and registers them on the home screen.",
-      "version": "1.7beta11",
+      "version": "1.7beta12",
       "category": "Installer",
-      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da",
-      "last_update": "2026-10-30 05:22:45 UTC+8",
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd",
+      "last_update": "2026-11-09 04:02:14 UTC+8",
       "source": "https://github.com/drakmor/shadowmountplus"
     },
     {
