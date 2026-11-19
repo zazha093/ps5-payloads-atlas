@@ -190,13 +190,13 @@
     },
     {
       "name": "HearBridge PS5",
-      "filename": "HearBridge-1.4.2.elf",
-      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.2/HearBridge-1.4.2.elf",
+      "filename": "HearBridge-1.4.3.elf",
+      "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/releases/download/v1.4.3/HearBridge-1.4.3.elf",
       "description": "Bluetooth A2DP audio bridge for PS5 homebrew",
-      "version": "v1.4.2",
+      "version": "v1.4.3",
       "category": "Tools",
-      "checksum": "565bb15656efad8d5561c2e397eac89002f12955fb2c6b65dc3475017613e434",
-      "last_update": "2026-11-16 01:45:40 UTC+8",
+      "checksum": "cc3ed39ee208ab76d0da2b3e99596a7037474f6d7238f98452c23130bdc7f379",
+      "last_update": "2026-11-20 03:48:23 UTC+8",
       "source": "https://github.com/x-f1reball-x/hearbridge-ps5"
     },
     {
@@ -399,13 +399,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.87.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.87.0/PS5_Cooling_System_Center_v1.87.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.88.1.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.88.1/PS5_Cooling_System_Center_v1.88.1.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.87.0",
+      "version": "v1.88.1",
       "category": "Tools",
-      "checksum": "a1503bddc0ce739df08bbe83412450edc7966880d39b37c7bcad9c011a193ca5",
-      "last_update": "2026-11-19 19:00:29 UTC+8",
+      "checksum": "b49782f084c82706539692d27b2a90610d7fcacb235a665842f9251650158a1a",
+      "last_update": "2026-11-20 01:30:41 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -432,13 +432,13 @@
     },
     {
       "name": "PS5 Tailscale",
-      "filename": "tailscale-0.7.3.elf",
-      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.3/tailscale-0.7.3.elf",
+      "filename": "tailscale-0.7.5.elf",
+      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.5/tailscale-0.7.5.elf",
       "description": "Tailscale for jailbroken PS5: reach the console over your tailnet and stream to it with Moonlight/Sunshine (unofficial)",
-      "version": "v0.7.3",
+      "version": "v0.7.5",
       "category": "Tools",
-      "checksum": "899c9f76994317171ab62a331a229b260e7c93aab68963502d79c861392e5801",
-      "last_update": "2026-11-05 00:05:32 UTC+8",
+      "checksum": "4a3ee8758115d16875eecc8b89443746097f55362e9fef2fae9c6392814efb5e",
+      "last_update": "2026-11-19 21:00:20 UTC+8",
       "source": "https://github.com/holdmysocks/ps5-tailscale"
     },
     {
