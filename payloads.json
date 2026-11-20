@@ -630,13 +630,13 @@
     },
     {
       "name": "WebKit-Autoloader-Installer",
-      "filename": "webkit-autoloader-installer_v0.8.0.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.8.0/webkit-autoloader-installer_v0.8.0.elf",
+      "filename": "webkit-autoloader-installer_v0.8.2.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
       "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
-      "version": "v0.8.0",
+      "version": "v0.8.2",
       "category": "Kernel",
-      "checksum": "015959f76c48e45df2b331ee2a6b52096afa3c2f9f1cbf9a29e67be699a6455b",
-      "last_update": "2026-11-20 08:25:11 UTC+8",
+      "checksum": "1c415bc124944c85b86a4751006b98010b977f142142d67306d13804899bad54",
+      "last_update": "2026-11-20 19:04:25 UTC+8",
       "source": "https://github.com/itsplk/ps5-webkit-autoloader"
     },
     {
