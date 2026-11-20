@@ -147,12 +147,12 @@
     {
       "name": "Garlic SaveMgr for PS5",
       "filename": "garlic-savemgr.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta23/garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v2.0/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-      "version": "v1.15-beta23",
+      "version": "v2.0",
       "category": "Backup",
       "checksum": "",
-      "last_update": "2026-11-12 06:19:40 UTC+8",
+      "last_update": "2026-11-21 01:29:16 UTC+8",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-12.6.13.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.13/ps5upload-12.6.13.elf",
+      "filename": "ps5upload-12.6.16.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.16/ps5upload-12.6.16.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v12.6.13",
+      "version": "v12.6.16",
       "category": "Backup",
-      "checksum": "83b0222253285e3a95db389caaffb3063ea659a3940e7f95c70f5568f887365e",
-      "last_update": "2026-11-20 05:33:39 UTC+8",
+      "checksum": "e02f0251c60e3de979e99b37b2f5276f7887a535223f78f35daf73735cea6576",
+      "last_update": "2026-11-21 02:59:18 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
