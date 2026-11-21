@@ -145,17 +145,6 @@
       "source": "https://github.com/drakmor/ftpsrv"
     },
     {
-      "name": "Garlic Worker",
-      "filename": "garlic-worker-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.5.6/garlic-worker-ps5.elf",
-      "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
-      "version": "v1.5.6",
-      "category": "Backup",
-      "checksum": "",
-      "last_update": "2026-11-12 06:19:40 UTC+8",
-      "source": "https://git.etawen.dev/earthonion/garlic-worker"
-    },
-    {
       "name": "gdbsrv-ps5",
       "filename": "gdbsrv-ps5.elf",
       "url": "https://github.com/ps5-payload-dev/gdbsrv/releases/download/v0.9/gdbsrv-ps5.elf",
@@ -286,17 +275,6 @@
       "checksum": "4195e02fa9f1d3d6ecacdf37149db1ba4ba3e6261d6a10d47d3c92b56ce9d4c6",
       "last_update": "2026-11-16 18:20:02 UTC+8",
       "source": "https://github.com/gasb07/neoenabler"
-    },
-    {
-      "name": "NP Fake Signin",
-      "filename": "np-fake-signin-ps5.elf",
-      "url": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.4/np-fake-signin-ps5.elf",
-      "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
-      "version": "v1.4",
-      "category": "Tools",
-      "checksum": "",
-      "last_update": "2026-10-02 08:58:43 UTC+8",
-      "source": "https://git.etawen.dev/earthonion/np-fake-signin"
     },
     {
       "name": "onionHEN",
@@ -619,13 +597,13 @@
     },
     {
       "name": "WebKit-Autoloader-Installer",
-      "filename": "webkit-autoloader-installer_v0.8.2.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
+      "filename": "webkit-autoloader-installer_v0.8.3.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.8.3/webkit-autoloader-installer_v0.8.3.elf",
       "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
-      "version": "v0.8.2",
+      "version": "v0.8.3",
       "category": "Kernel",
-      "checksum": "1c415bc124944c85b86a4751006b98010b977f142142d67306d13804899bad54",
-      "last_update": "2026-11-20 19:04:25 UTC+8",
+      "checksum": "f4b0dee9af572ea1cb77aaf1e6fc5bf8ef520fc0a0a30753dd94a5cbdc04dd8e",
+      "last_update": "2026-11-21 18:15:21 UTC+8",
       "source": "https://github.com/itsplk/ps5-webkit-autoloader"
     },
     {
@@ -673,6 +651,14 @@
     },
     {
       "url": "https://git.etawen.dev/earthonion/garlic-savemgr",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
+      "url": "https://git.etawen.dev/earthonion/garlic-worker",
+      "reason": "no release with .elf/.bin asset, or repo unreachable"
+    },
+    {
+      "url": "https://git.etawen.dev/earthonion/np-fake-signin",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
