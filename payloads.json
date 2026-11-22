@@ -145,6 +145,28 @@
       "source": "https://github.com/drakmor/ftpsrv"
     },
     {
+      "name": "Garlic SaveMgr for PS5",
+      "filename": "garlic-savemgr.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v2.0/garlic-savemgr.elf",
+      "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+      "version": "v2.0",
+      "category": "Backup",
+      "checksum": "",
+      "last_update": "2026-11-21 01:29:16 UTC+8",
+      "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
+    },
+    {
+      "name": "Garlic Worker",
+      "filename": "garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.5.6/garlic-worker-ps5.elf",
+      "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
+      "version": "v1.5.6",
+      "category": "Backup",
+      "checksum": "",
+      "last_update": "2026-11-12 06:19:40 UTC+8",
+      "source": "https://git.etawen.dev/earthonion/garlic-worker"
+    },
+    {
       "name": "gdbsrv-ps5",
       "filename": "gdbsrv-ps5.elf",
       "url": "https://github.com/ps5-payload-dev/gdbsrv/releases/download/v0.9/gdbsrv-ps5.elf",
@@ -277,6 +299,17 @@
       "source": "https://github.com/gasb07/neoenabler"
     },
     {
+      "name": "NP Fake Signin",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.4/np-fake-signin-ps5.elf",
+      "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
+      "version": "v1.4",
+      "category": "Tools",
+      "checksum": "",
+      "last_update": "2026-10-02 08:58:43 UTC+8",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin"
+    },
+    {
       "name": "onionHEN",
       "filename": "OnionHEN.elf",
       "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
@@ -290,12 +323,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.5/orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.6/orbit_store.elf",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
-      "version": "v1.9.5",
+      "version": "v1.9.6",
       "category": "Tools",
-      "checksum": "95da321dcfa054fe355e1d820e50163b3ee4da1410a9a2aa72213d7626b2d3b9",
-      "last_update": "2026-11-20 05:05:58 UTC+8",
+      "checksum": "8a73e1265984589b7b8835f8b3c5c786c5edf753964dfc614687cdf57f0c7146",
+      "last_update": "2026-11-22 03:52:50 UTC+8",
       "source": "https://github.com/saawant12/orbit-store-ps5"
     },
     {
@@ -366,13 +399,13 @@
     },
     {
       "name": "PS5 Cooling & System Center Pro",
-      "filename": "PS5_Cooling_System_Center_v1.89.0.elf",
-      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.89.0/PS5_Cooling_System_Center_v1.89.0.elf",
+      "filename": "PS5_Cooling_System_Center_v1.90.0.elf",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases/download/v1.90.0/PS5_Cooling_System_Center_v1.90.0.elf",
       "description": "Fan control, temperature monitoring and system center with a web UI.",
-      "version": "v1.89.0",
+      "version": "v1.90.0",
       "category": "Tools",
-      "checksum": "2cfb09a1d2f71f7de8f51d919edda484f60d8f61cbafa0fac873807852b96458",
-      "last_update": "2026-11-20 09:43:54 UTC+8",
+      "checksum": "fe1354704a7043fb770a90f07de9c88089037698320cd9aac4974b346f36b7d8",
+      "last_update": "2026-11-22 07:42:09 UTC+8",
       "source": "https://github.com/strongt1me/ps5-cooling-system-center-pro"
     },
     {
@@ -647,18 +680,6 @@
     },
     {
       "url": "https://git.earthonion.com/soniciso/sonicloader",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://git.etawen.dev/earthonion/garlic-savemgr",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://git.etawen.dev/earthonion/garlic-worker",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://git.etawen.dev/earthonion/np-fake-signin",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
