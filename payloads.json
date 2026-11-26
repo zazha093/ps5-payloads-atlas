@@ -454,13 +454,13 @@
     },
     {
       "name": "PS5 Web File Manager",
-      "filename": "web-file-mgr-v1.14.elf",
-      "url": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.14/web-file-mgr-v1.14.elf",
+      "filename": "web-file-mgr-v1.15.elf",
+      "url": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.15/web-file-mgr-v1.15.elf",
       "description": "Web-based file manager for jailbroken PS5. Serves a browser UI over HTTP so you can browse, transfer, and manage files on the console's internal storage from any device on the LAN.",
-      "version": "v1.14",
+      "version": "v1.15",
       "category": "Files",
-      "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
-      "last_update": "2026-11-10 21:40:53 UTC+8",
+      "checksum": "a3527dff53bfc783b4321ae42a8a691944f8d7ac4246c2a3c46ea31b6dc1d4ff",
+      "last_update": "2026-11-26 22:19:41 UTC+8",
       "source": "https://github.com/owendswang/ps5-web-file-manager"
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "name": "ps5-dump-forge",
-      "filename": "ps5-dump-forge-0.5.7-ps5.elf",
-      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
+      "filename": "ps5-dump-forge-0.6.0-ps5.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.6.0/ps5-dump-forge-0.6.0-ps5.elf",
       "description": "A toolkit for working with PS5 game dumps",
-      "version": "v0.5.7",
+      "version": "v0.6.0",
       "category": "Backup",
-      "checksum": "83a7e82a9070a671953d96e4acfc909697505281e4a023a2c6411316c2c1ce6c",
-      "last_update": "2026-11-23 01:12:11 UTC+8",
+      "checksum": "420265c626d517ed433ecf360092dc28e1061fd0ac29346de488c41cde3ac0d2",
+      "last_update": "2026-11-27 00:25:55 UTC+8",
       "source": "https://github.com/quer3q/ps5-dump-forge"
     },
     {
@@ -575,13 +575,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-12.6.30.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.30/ps5upload-12.6.30.elf",
+      "filename": "ps5upload-12.6.32.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.32/ps5upload-12.6.32.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v12.6.30",
+      "version": "v12.6.32",
       "category": "Backup",
-      "checksum": "722badeb0943b624660a6614a403cfba46ed28094701ab3a49655037d5a8e6a9",
-      "last_update": "2026-11-25 22:51:01 UTC+8",
+      "checksum": "5844c1cca0b23433850d59eeb57202c374aafc8beba986eeabf21b0a7ce9c20b",
+      "last_update": "2026-11-26 21:55:23 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
