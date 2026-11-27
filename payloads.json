@@ -2,6 +2,17 @@
   "name": "lucaszhongsj/ps5-payloads-atlas",
   "payloads": [
     {
+      "name": "AnyPad PS5",
+      "filename": "AnyPad-PS5-0.9.5-beta.elf",
+      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5/releases/download/v0.9.5-beta/AnyPad-PS5-0.9.5-beta.elf",
+      "description": "A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak.",
+      "version": "v0.9.5-beta",
+      "category": "Kernel",
+      "checksum": "",
+      "last_update": "2026-10-15 03:05:40 UTC+8",
+      "source": "https://codeberg.org/elmonomalva0/any-pad-ps5"
+    },
+    {
       "name": "APR Emu Updater",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
@@ -145,6 +156,17 @@
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr"
     },
     {
+      "name": "Garlic Worker",
+      "filename": "garlic-worker-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/garlic-worker/releases/download/v1.5.6/garlic-worker-ps5.elf",
+      "description": "Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com.",
+      "version": "v1.5.6",
+      "category": "Backup",
+      "checksum": "",
+      "last_update": "2026-11-12 06:19:40 UTC+8",
+      "source": "https://git.etawen.dev/earthonion/garlic-worker"
+    },
+    {
       "name": "gdbsrv-ps5",
       "filename": "gdbsrv-ps5.elf",
       "url": "https://github.com/ps5-payload-dev/gdbsrv/releases/download/v0.9/gdbsrv-ps5.elf",
@@ -275,6 +297,17 @@
       "checksum": "4195e02fa9f1d3d6ecacdf37149db1ba4ba3e6261d6a10d47d3c92b56ce9d4c6",
       "last_update": "2026-11-16 18:20:02 UTC+8",
       "source": "https://github.com/gasb07/neoenabler"
+    },
+    {
+      "name": "NP Fake Signin",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "https://git.etawen.dev/earthonion/np-fake-signin/releases/download/v1.4/np-fake-signin-ps5.elf",
+      "description": "ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state.",
+      "version": "v1.4",
+      "category": "Tools",
+      "checksum": "",
+      "last_update": "2026-10-02 08:58:43 UTC+8",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin"
     },
     {
       "name": "onionHEN",
@@ -542,13 +575,13 @@
     },
     {
       "name": "PS5upload",
-      "filename": "ps5upload-12.6.40.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.40/ps5upload-12.6.40.elf",
+      "filename": "ps5upload-12.6.43.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.43/ps5upload-12.6.43.elf",
       "description": "Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client.",
-      "version": "v12.6.40",
+      "version": "v12.6.43",
       "category": "Backup",
-      "checksum": "d43d24fbe3030466168838bbd9040978cb1c235240b9b0ca4037ff04b81f2c0a",
-      "last_update": "2026-11-27 19:44:07 UTC+8",
+      "checksum": "8b8bfc0fcdf74e92a6a0c1eb934ead27b94a4cb75f0ff09658a3b7d1cc599a7f",
+      "last_update": "2026-11-28 04:49:48 UTC+8",
       "source": "https://github.com/phantomptr/ps5upload"
     },
     {
@@ -630,35 +663,23 @@
     },
     {
       "name": "zftpd",
-      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-      "url": "https://github.com/seregonwar/zftpd/releases/download/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "filename": "zftpd-ps5-zhttp-v1.7.1.elf",
+      "url": "https://github.com/seregonwar/zftpd/releases/download/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
       "description": "Zero-copy FTP/HTTP server.",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "Files",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
-      "last_update": "2026-10-28 17:20:28 UTC+8",
+      "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf",
+      "last_update": "2026-11-27 20:15:25 UTC+8",
       "source": "https://github.com/seregonwar/zftpd"
     }
   ],
   "skipped": [
-    {
-      "url": "https://codeberg.org/elmonomalva0/Any-Pad-ps5",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
     {
       "url": "https://git.earthonion.com/soniciso/elf-arsenal",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {
       "url": "https://git.earthonion.com/soniciso/sonicloader",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://git.etawen.dev/earthonion/garlic-worker",
-      "reason": "no release with .elf/.bin asset, or repo unreachable"
-    },
-    {
-      "url": "https://git.etawen.dev/earthonion/np-fake-signin",
       "reason": "no release with .elf/.bin asset, or repo unreachable"
     },
     {

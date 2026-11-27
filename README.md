@@ -46,6 +46,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 <!-- PAYLOADS_START -->
 | Name | Version | Category | Description | Last Updated | Source |
 | --- | --- | --- | --- | --- | --- |
+| **AnyPad PS5** | `v0.9.5-beta` | Kernel | A Bluetooth controller bridge for jailbroken PS5 consoles. Un puente de mandos Bluetooth para PS5 con jailbreak. | `2026-10-15 03:05:40 UTC+8` | [elmonomalva0/any-pad-ps5](https://codeberg.org/elmonomalva0/any-pad-ps5) |
 | **APR Emu Updater** | `v2.0.6` | Installer | PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console. | `2026-08-29 17:54:19 UTC+8` | [tsuramatsu1/apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater) |
 | **BackPork** | `0.1` | Installer | Lets you sideload system libraries into PS5 games. | `2026-05-01 00:34:19 UTC+8` | [bestpig/backpork](https://github.com/bestpig/backpork) |
 | **BFpilot** | `v0.4.4` | Files | Web-based PS5 file manager serving a browser interface on port 5905 for browsing and managing console files. | `2026-08-12 02:08:09 UTC+8` | [itsblurf/bfpilot](https://github.com/itsblurf/bfpilot) |
@@ -59,6 +60,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 | **ftpsrv** | `v0.22` | Files | Lightweight FTP server on :2121 with SELF/ELF auto-decryption and remount-RW SITE commands. Browse the PS5 filesystem from any FTP client. | `2026-11-09 05:40:53 UTC+8` | [ps5-payload-dev/ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) |
 | **ftpsrv (drakmor)** | `1.16-ng-stable` | Files | drakmor's fork of ftpsrv. | `2026-09-21 04:48:47 UTC+8` | [drakmor/ftpsrv](https://github.com/drakmor/ftpsrv) |
 | **Garlic SaveMgr for PS5** | `v2.0` | Backup | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-21 01:29:16 UTC+8` | [earthonion/garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr) |
+| **Garlic Worker** | `v1.5.6` | Backup | Background worker that drains the community save-decryption queue from garlicsaves.com. Handles both PS4 and PS5 saves natively. Opt-in: connects to garlicsaves.com. | `2026-11-12 06:19:40 UTC+8` | [earthonion/garlic-worker](https://git.etawen.dev/earthonion/garlic-worker) |
 | **gdbsrv-ps5** | `v0.9` | Network | GDB remote debugging service payload for inspecting PS5 game processes. | `2026-08-03 00:50:41 UTC+8` | [ps5-payload-dev/gdbsrv](https://github.com/ps5-payload-dev/gdbsrv) |
 | **Ghostcontrol** | `v2.2.5-beta` | Tools | USB HID controller patcher that injects third-party controller input into a virtual DualSense device. | `2026-11-06 06:22:39 UTC+8` | [stonedmodder/ghostcontrol-ps5-usb-controller-patcher](https://github.com/stonedmodder/ghostcontrol-ps5-usb-controller-patcher) |
 | **HearBridge PS5** | `v1.4.3` | Tools | Bluetooth A2DP audio bridge for PS5 homebrew | `2026-11-20 03:48:23 UTC+8` | [x-f1reball-x/hearbridge-ps5](https://github.com/x-f1reball-x/hearbridge-ps5) |
@@ -71,6 +73,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 | **LZ4 Game Compressor** | `beta.7` | Installer | On-console game compression with a web UI. Needs ShadowMountPlus. | `2026-10-12 05:03:33 UTC+8` | [gameboy829/ps5-lz4-game-compressor](https://github.com/gameboy829/ps5-lz4-game-compressor) |
 | **nanoDNS** | `0.4` | Network | Minimal DNS server running on the PS5 (UDP :53). Blocks PlayStation Network + update domains by default and can redirect any domain to a LAN IP. | `2026-08-05 02:27:26 UTC+8` | [drakmor/nanodns](https://github.com/drakmor/nanodns) |
 | **NeoEnabler** | `0.7.0` | Tools | Allows PS4 games with no PS4 Support to receive patches via illusionyy's ps-patch-system that can unlock higher resolutions | `2026-11-16 18:20:02 UTC+8` | [gasb07/neoenabler](https://github.com/gasb07/neoenabler) |
+| **NP Fake Signin** | `v1.4` | Tools | ELF payload for PS4/PS5 that fakes PSN sign-in for the foreground user by writing NP files and patching registry/ShellCore state. | `2026-10-02 08:58:43 UTC+8` | [earthonion/np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin) |
 | **onionHEN** | `v0.9.0` | Tools | OnionHEN is a homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN. It prepares the system, injects a Toolbox into the home screen, and adds cheats, in-game overlays, payload management, and background services. | `2026-10-15 15:42:25 UTC+8` | [aydencharles/onionhen](https://github.com/aydencharles/onionhen) |
 | **Orbit Store** | `v1.9.7` | Tools | A modern PS5 download manager with resumable downloads and phone controls | `2026-11-23 20:19:50 UTC+8` | [saawant12/orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5) |
 | **PKG-Manager** | `v1.5.1` | Installer | Browse and install PKGs from USB, disc, or SMB shares directly on your PS5 | `2026-10-10 23:38:10 UTC+8` | [itsplk/ps5-pkg-manager](https://github.com/itsplk/ps5-pkg-manager) |
@@ -95,7 +98,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 | **ps5-syslang** | `v0.3` | Tools | ShellUI language-switching payload for changing the PS5 system language, including on region-locked consoles. | `2026-10-19 00:22:59 UTC+8` | [owendswang/ps5-syslang](https://github.com/owendswang/ps5-syslang) |
 | **ps5debug-NG** | `1.3.2` | Network | PS5 debugger payload — userland TCP wire-protocol server hosted inside SceShellCore. | `2026-09-23 11:21:00 UTC+8` | [pharaoh2k/ps5debug-ng](https://github.com/pharaoh2k/ps5debug-ng) |
 | **PS5Save** | `v3` | Backup | USB save backup utility for jailbroken PS5’s | `2026-11-15 08:18:47 UTC+8` | [heni0xyz/ps5save](https://github.com/heni0xyz/ps5save) |
-| **PS5upload** | `v12.6.40` | Backup | Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client. | `2026-11-27 19:44:07 UTC+8` | [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) |
+| **PS5upload** | `v12.6.43` | Backup | Integrated PS5 file, mount, save-management, monitoring, and remote package-install payload with a companion desktop client. | `2026-11-28 04:49:48 UTC+8` | [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) |
 | **ShadowMount+** | `1.7beta12` | Installer | Fully automated background 'Auto-Mounter' payload for jailbroken PS5. Watches scan folders for game folders and .ffpkg/.exfat/.ffpfs/.ffpfsc images, auto-mounts them, stages sce_sys + appmeta + trophy data, and registers them on the home screen. | `2026-11-09 04:02:14 UTC+8` | [drakmor/shadowmountplus](https://github.com/drakmor/shadowmountplus) |
 | **shsrv** | `v0.20` | Network | Telnet server on :2323 with 42 POSIX-ish commands plus hbldr (launch unsigned ELF with full A/V) and hbdbg (gdb-style debugger). | `2026-08-03 00:41:01 UTC+8` | [ps5-payload-dev/shsrv](https://github.com/ps5-payload-dev/shsrv) |
 | **singleDPI** | `0.2.2` | Installer | Standalone DPI payload accepting TCP 9090 JSON package-install requests and an experimental 12800 URL endpoint. | `2026-10-03 01:58:30 UTC+8` | [maxmilu/ps5-direct-package-installer](https://github.com/maxmilu/ps5-direct-package-installer) |
@@ -103,7 +106,7 @@ Same repo under multiple aliases (e.g. `LightningMods/etaHEN` and `etaHEN/etaHEN
 | **WebKit-Autoloader-Installer** | `v0.8.4` | Kernel | Installs WebKit Autoloader on homescreen (FW 7.00-13.60) | `2026-11-23 09:00:21 UTC+8` | [itsplk/ps5-webkit-autoloader](https://github.com/itsplk/ps5-webkit-autoloader) |
 | **websrv** | `v0.34` | Network | HTTP server on :8080 serving a homebrew launcher page. Pairs with the homebrew bundles distributed by ps5-payload-dev. | `2026-08-03 03:51:42 UTC+8` | [ps5-payload-dev/websrv](https://github.com/ps5-payload-dev/websrv) |
 | **WelcomeHubActivator** | `v1.2.0` | Tools | A PS5 ELF payload that enables the Welcome Hub. | `2026-10-24 04:08:05 UTC+8` | [ghost1372/welcomehubactivator](https://github.com/ghost1372/welcomehubactivator) |
-| **zftpd** | `v1.7.0` | Files | Zero-copy FTP/HTTP server. | `2026-10-28 17:20:28 UTC+8` | [seregonwar/zftpd](https://github.com/seregonwar/zftpd) |
+| **zftpd** | `v1.7.1` | Files | Zero-copy FTP/HTTP server. | `2026-11-27 20:15:25 UTC+8` | [seregonwar/zftpd](https://github.com/seregonwar/zftpd) |
 <!-- PAYLOADS_END -->
 
 ## Support & Suggestions
